@@ -35,12 +35,9 @@ src/\
 │ └── Settings.jsx        - Extension behavior settings\
 ├── utils/\
 │ └── storage.js          - Centralized Chrome storage handling\
-├── content/\
-│ ├── index.js            - Content script entry point\
-│ └── speedController.js  - YouTube video playback control logic\
 ├── App.jsx               - Routing only\
 ├── main.jsx              - React entry point\
-├── index.css              - Tailwind v4 + design tokens\
+├── index.css             - Tailwind v4 + design tokens\
 ├── vite.config.js\
 └── public/\
   └── manifest.json       - Chrome extension manifest\

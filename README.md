@@ -42,8 +42,8 @@ src/\
 └── public/\
   └── manifest.json       - Chrome extension manifest\
 
-App.jsx is intentionally kept minimal and handles routing only.  
-All UI logic lives inside page-level components to avoid unnecessary abstraction.
+> App.jsx is intentionally kept minimal and handles routing only.  
+> All UI logic lives inside page-level components to avoid unnecessary abstraction.
 
 
 **Design decision:**
